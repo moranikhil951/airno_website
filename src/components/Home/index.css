@@ -1,0 +1,57 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+.home-img {
+  width: 150px;
+}
+.home-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  line-height: 56px;
+  color: #3d3d3d;
+}
+
+.image-Container {
+  background-image: url('https://global.jaxa.jp/projects/rockets/h3/images/h3_main_001.jpg');
+  background-size: cover;
+  height: 60vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading-home {
+  color: grey;
+  font-family: roboto;
+}
+
+.our-heading {
+  font-size: 50px;
+}
+
+.para-home {
+  font-size: 30px;
+  font-family: roboto;
+  text-align: center;
+}
+
+.image-Container1 {
+  background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2017/08/newglenn-launch-800x616.png');
+  background-size: cover;
+  height: 60vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.join-now {
+  margin: 20px;
+}
